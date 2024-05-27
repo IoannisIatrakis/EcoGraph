@@ -1,0 +1,87 @@
+/* Basic CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #36d1dc, #5b86e5);
+}
+
+/* Container Styling */
+.container {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 1200px;
+    margin: 20px;
+}
+
+/* Content Styling */
+.content {
+    text-align: left;
+    flex: 1;
+    padding-right: 2em;
+}
+
+/* Heading Styling */
+h1 {
+    margin-bottom: 0.5em;
+    color: #333;
+}
+
+/* Paragraph Styling */
+p {
+    margin-bottom: 1em;
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Button Container Styling */
+.button-container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1em;
+}
+
+/* Button Styling */
+.button {
+    padding: 0.5em 1.5em;
+    font-size: 1.1em;
+    color: #fff;
+    background-color: #36d1dc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+    background-color: #5b86e5;
+    transform: translateY(-2px);
+}
+
+/* Image Container Styling */
+.images {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin-left: 2em;
+}
+
+.images img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

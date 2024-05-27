@@ -1,0 +1,20 @@
+<div  style="height: 1200px;">
+    <ngx-charts-line-chart *ngIf="lineChartData.length>0"
+      [view]="[1200,600]"
+     
+      [results]="lineChartData"
+      [gradient]="gradient"
+      [xAxis]="showXAxis"
+      [yAxis]="showYAxis"
+      [legend]="showLegend"
+      [showXAxisLabel]="showXAxisLabel"
+      [showYAxisLabel]="showYAxisLabel"
+      [xAxisLabel]="xAxisLabel"
+      [yAxisLabel]="yAxisLabel"
+        [timeline]="true"
+      >
+      
+    </ngx-charts-line-chart>
+
+    <div *ngIf="lineChartData.length==0">No data found</div>
+  </div>

@@ -1,0 +1,63 @@
+<div class="d-flex fle">
+    <div class="text-center flex-grow-1 mx-2">
+        <label class="text-center" for="mydropDown">Countries</label>
+        <ejs-dropdowntree class="flex-grow-1 mx-2" id='mydropDown' #mydropDown [fields]='fields' [showCheckBox]='true'
+            (select)="getCountriesData()"></ejs-dropdowntree>
+
+    </div>
+    <div class="text-center mx-2 flex-grow-1">
+        <label class="text-center" for="disasterDropDown">Disasters</label>
+        <ejs-dropdowntree class="flex-grow-1 mx-2" id='disasterDropDown' #disasterDropDown [(ngModel)]="myNg"
+            name="myNg" [fields]='disastersFields' [showCheckBox]='true'
+            (select)="getData(disasterDropDown,disastersTables)"></ejs-dropdowntree>
+
+    </div>
+
+    <div class="text-center mx-2 flex-grow-1">
+        <label class="text-center" for="forestCarbonDropDown">ForestCarbon</label>
+        <ejs-dropdowntree class="flex-grow-1 mx-2" id='forestCarbonDropDown' #forestCarbonDropDown
+            [fields]='forestCarbonFields' [showCheckBox]='true'
+            (select)="getData(forestCarbonDropDown,forestcarbonTables)"></ejs-dropdowntree>
+    </div>
+    <div class="text-center mx-2 flex-grow-1">
+        <label class="text-center" for="landDropDown">Land</label>
+        <ejs-dropdowntree class=" mx-2" id='landDropDown' #landDropDown [fields]='landFields' [showCheckBox]='true'
+            (select)="getData(landDropDown,landTables)"></ejs-dropdowntree>
+    </div>
+
+
+    <div class="text-center mx-2 flex-grow-1">
+        <label class="text-center" for="temperatureDropDown">Land</label>
+        <ejs-dropdowntree class="flex-grow-1 mx-2" id='temperatureDropDown' #temperatureDropDown
+            [fields]='temperatureFields' [showCheckBox]='true'
+            (select)="getData(temperatureDropDown,temperatureTables)"></ejs-dropdowntree>
+
+    </div>
+
+    <div class="text-center mx-2 flex-grow-1">
+        <label class="text-center" for="temperatureDropDown">Years</label>
+        <ejs-daterangepicker start='Decade' [(ngModel)]='value' (close)="logValue()" depth="Decade" [min]="1980"
+            [max]="2020"></ejs-daterangepicker>
+
+        
+
+
+    </div>
+
+    <div class="text-center mx-2 flex-grow-1">
+        <label class="text-center" for="temperatureDropDown">Interval</label>
+        <ejs-dropdownlist id='ddlelement' #samples [dataSource]='years' [(ngModel)]="selectedYear" [fields]="Intervalfields" [placeholder]=''></ejs-dropdownlist>
+
+    </div>
+</div>
+
+<button class="button" (click)="selectChart('bar')">Bar Chart</button>
+<button class="button" (click)="selectChart('line')">Line Chart</button>
+<!-- <button class="button" (click)="selectChart('scatter')">Scatter Chart</button> -->
+
+
+
+
+<app-bar-chart *ngIf="selectedChart=='bar'" [fields]="tablesFields" [countries]="Countries" [interval]="this.selectedYear"  [startYear]="startValue" [endYear]="endValue"></app-bar-chart>
+
+<app-line-chart *ngIf="selectedChart=='line'" [fields]="tablesFields" [countries]="Countries" [interval]="this.selectedYear"  [startYear]="startValue" [endYear]="endValue"></app-line-chart>

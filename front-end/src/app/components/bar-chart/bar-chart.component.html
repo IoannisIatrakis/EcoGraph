@@ -1,0 +1,19 @@
+<div style="height: 1200px;">
+    <ngx-charts-bar-vertical-2d *ngIf="barChartData.length>0"
+      [view]="[1200,600]"
+     
+      [results]="barChartData"
+      [gradient]="gradient"
+      [xAxis]="showXAxis"
+      [yAxis]="showYAxis"
+      [legend]="showLegend"
+      [showXAxisLabel]="showXAxisLabel"
+      [showYAxisLabel]="showYAxisLabel"
+      [xAxisLabel]="xAxisLabel"
+      [yAxisLabel]="yAxisLabel"
+      [barPadding]="0"
+      [groupPadding]="1">
+      
+    </ngx-charts-bar-vertical-2d>
+    <div *ngIf="barChartData.length==0">No data found</div>
+  </div>
