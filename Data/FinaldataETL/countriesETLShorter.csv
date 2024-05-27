@@ -1,0 +1,253 @@
+ISO3;Display_Name;Capital;Continent;CurrencyCode;Region Code;Region Name;Sub-region Code;Sub-region Name;Status;Area_SqKm;Population
+AFG;Afghanistan                       ;Kabul              ;Asia         ;AFN;142;Asia    ;34;Southern Asia                  ;Independent           ;647500;29121286
+ALA;Aland Islands                     ;Mariehamn          ;Europe       ;EUR;150;Europe  ;154;Northern Europe                ;Part of FI            ;1580;26711
+ALB;Albania                           ;Tirana             ;Europe       ;ALL;150;Europe  ;39;Southern Europe                ;Independent           ;28748;2986952
+DZA;Algeria                           ;Algiers            ;Africa       ;DZD;2;Africa  ;15;Northern Africa                ;Independent           ;2381740;34586184
+ASM;American Samoa                    ;Pago Pago          ;Oceania      ;USD;9;Oceania ;61;Polynesia                      ;Territory of US       ;199;57881
+AND;Andorra                           ;Andorra la Vella   ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;468;84000
+AGO;Angola                            ;Luanda             ;Africa       ;AOA;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1246700;13068161
+AIA;Anguilla                          ;The Valley         ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;102;13254
+ATA;Antarctica                        ;;Antarctica   ;;;;;;International         ;14000000;0
+ATG;Antigua and Barbuda               ;St. John's         ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Independent           ;443;86754
+ARG;Argentina                         ;Buenos Aires       ;South America;ARS;19;Americas;419;Latin America and the Caribbean;Independent           ;2766890;41343201
+ARM;Armenia                           ;Yerevan            ;Asia         ;AMD;142;Asia    ;145;Western Asia                   ;Independent           ;29800;2968000
+ABW;Aruba                             ;Oranjestad         ;North America;AWG;19;Americas;419;Latin America and the Caribbean;Part of NL            ;193;71566
+AUS;Australia                         ;Canberra           ;Oceania      ;AUD;9;Oceania ;53;Australia and New Zealand      ;Independent           ;7686850;21515754
+AUT;Austria                           ;Vienna             ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;83858;8205000
+AZE;Azerbaijan                        ;Baku               ;Asia         ;AZN;142;Asia    ;145;Western Asia                   ;Independent           ;86600;8303512
+BHS;Bahamas                           ;Nassau             ;North America;BSD;19;Americas;419;Latin America and the Caribbean;Independent           ;13940;301790
+BHR;Bahrain                           ;Manama             ;Asia         ;BHD;142;Asia    ;145;Western Asia                   ;Independent           ;665;738004
+BGD;Bangladesh                        ;Dhaka              ;Asia         ;BDT;142;Asia    ;34;Southern Asia                  ;Independent           ;144000;156118464
+BRB;Barbados                          ;Bridgetown         ;North America;BBD;19;Americas;419;Latin America and the Caribbean;Independent           ;431;285653
+BLR;Belarus                           ;Minsk              ;Europe       ;BYN;150;Europe  ;151;Eastern Europe                 ;Independent           ;207600;9685000
+BEL;Belgium                           ;Brussels           ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;30510;10403000
+BLZ;Belize                            ;Belmopan           ;North America;BZD;19;Americas;419;Latin America and the Caribbean;Independent           ;22966;314522
+BEN;Benin                             ;Porto-Novo         ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;112620;9056010
+BMU;Bermuda                           ;Hamilton           ;North America;BMD;19;Americas;21;Northern America               ;Territory of GB       ;53;65365
+BTN;Bhutan                            ;Thimphu            ;Asia         ;BTN;142;Asia    ;34;Southern Asia                  ;Independent           ;47000;699847
+BOL;Bolivia                           ;Sucre              ;South America;BOB;19;Americas;419;Latin America and the Caribbean;Independent           ;1098580;9947418
+BES;Bonaire, Saint Eustatius and Saba ;;North America;USD;19;Americas;419;Latin America and the Caribbean;Part of NL            ;328;18012
+BIH;Bosnia and Herzegovina            ;Sarajevo           ;Europe       ;BAM;150;Europe  ;39;Southern Europe                ;Independent           ;51129;4590000
+BWA;Botswana                          ;Gaborone           ;Africa       ;BWP;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;600370;2029307
+BVT;Bouvet Island                     ;;Antarctica   ;NOK;19;Americas;419;Latin America and the Caribbean;Territory of NO       ;49;0
+BRA;Brazil                            ;Brasilia           ;South America;BRL;19;Americas;419;Latin America and the Caribbean;Independent           ;8511965;201103330
+IOT;British Indian Ocean Territory    ;Diego Garcia       ;Asia         ;USD;2;Africa  ;202;Sub-Saharan Africa             ;Territory of GB       ;60;4000
+VGB;British Virgin Islands            ;Road Town          ;North America;USD;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;153;21730
+BRN;Brunei                            ;Bandar Seri Begawan;Asia         ;BND;142;Asia    ;35;South-eastern Asia             ;Independent           ;5770;395027
+BGR;Bulgaria                          ;Sofia              ;Europe       ;BGN;150;Europe  ;151;Eastern Europe                 ;Independent           ;110910;7148785
+BFA;Burkina Faso                      ;Ouagadougou        ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;274200;16241811
+BDI;Burundi                           ;Bujumbura          ;Africa       ;BIF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;27830;9863117
+KHM;Cambodia                          ;Phnom Penh         ;Asia         ;KHR;142;Asia    ;35;South-eastern Asia             ;Independent           ;181040;14453680
+CMR;Cameroon                          ;Yaounde            ;Africa       ;XAF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;475440;19294149
+CAN;Canada                            ;Ottawa             ;North America;CAD;19;Americas;21;Northern America               ;Independent           ;9984670;33679000
+CPV;Cape Verde                        ;Praia              ;Africa       ;CVE;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;4033;508659
+CYM;Cayman Islands                    ;George Town        ;North America;KYD;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;262;44270
+CAF;Central African Republic          ;Bangui             ;Africa       ;XAF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;622984;4844927
+TCD;Chad                              ;N'Djamena          ;Africa       ;XAF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1284000;10543464
+CHL;Chile                             ;Santiago           ;South America;CLP;19;Americas;419;Latin America and the Caribbean;Independent           ;756950;16746491
+CHN;China                             ;Beijing            ;Asia         ;CNY;142;Asia    ;30;Eastern Asia                   ;Independent           ;9596960;1330044000
+CXR;Christmas Island                  ;Flying Fish Cove   ;Oceania      ;AUD;9;Oceania ;53;Australia and New Zealand      ;Territory of AU       ;135;1500
+CCK;Cocos Islands                     ;West Island        ;Asia         ;AUD;9;Oceania ;53;Australia and New Zealand      ;Territory of AU       ;14;628
+COL;Colombia                          ;Bogota             ;South America;COP;19;Americas;419;Latin America and the Caribbean;Independent           ;1138910;47790000
+COM;Comoros                           ;Moroni             ;Africa       ;KMF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;2170;773407
+COK;Cook Islands                      ;Avarua             ;Oceania      ;NZD;9;Oceania ;61;Polynesia                      ;Associated with NZ    ;240;21388
+CRI;Costa Rica                        ;San Jose           ;North America;CRC;19;Americas;419;Latin America and the Caribbean;Independent           ;51100;4516220
+HRV;Croatia                           ;Zagreb             ;Europe       ;HRK;150;Europe  ;39;Southern Europe                ;Independent           ;56542;4284889
+CUB;Cuba                              ;Havana             ;North America;CUP;19;Americas;419;Latin America and the Caribbean;Independent           ;110860;11423000
+CUW;Curacao                           ; Willemstad        ;North America;ANG;19;Americas;419;Latin America and the Caribbean;Part of NL            ;444;141766
+CYP;Cyprus                            ;Nicosia            ;Europe       ;EUR;142;Asia    ;145;Western Asia                   ;Independent           ;9250;1102677
+CZE;Czechia                           ;Prague             ;Europe       ;CZK;150;Europe  ;151;Eastern Europe                 ;Independent           ;78866;10476000
+COD;Democratic Republic of the Congo  ;Kinshasa           ;Africa       ;CDF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;2345410;70916439
+DNK;Denmark                           ;Copenhagen         ;Europe       ;DKK;150;Europe  ;154;Northern Europe                ;Independent           ;43094;5484000
+DJI;Djibouti                          ;Djibouti           ;Africa       ;DJF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;23000;740528
+DMA;Dominica                          ;Roseau             ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Independent           ;754;72813
+DOM;Dominican Republic                ;Santo Domingo      ;North America;DOP;19;Americas;419;Latin America and the Caribbean;Independent           ;48730;9823821
+ECU;Ecuador                           ;Quito              ;South America;USD;19;Americas;419;Latin America and the Caribbean;Independent           ;283560;14790608
+EGY;Egypt                             ;Cairo              ;Africa       ;EGP;2;Africa  ;15;Northern Africa                ;Independent           ;1001450;80471869
+SLV;El Salvador                       ;San Salvador       ;North America;USD;19;Americas;419;Latin America and the Caribbean;Independent           ;21040;6052064
+GNQ;Equatorial Guinea                 ;Malabo             ;Africa       ;XAF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;28051;1014999
+ERI;Eritrea                           ;Asmara             ;Africa       ;ERN;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;121320;5792984
+EST;Estonia                           ;Tallinn            ;Europe       ;EUR;150;Europe  ;154;Northern Europe                ;Independent           ;45226;1291170
+ETH;Ethiopia                          ;Addis Ababa        ;Africa       ;ETB;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1127127;88013491
+FLK;Falkland Islands                  ;Stanley            ;South America;FKP;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;12173;2638
+FRO;Faroe Islands                     ;Torshavn           ;Europe       ;DKK;150;Europe  ;154;Northern Europe                ;Part of DK            ;1399;48228
+FJI;Fiji                              ;Suva               ;Oceania      ;FJD;9;Oceania ;54;Melanesia                      ;Independent           ;18270;875983
+FIN;Finland                           ;Helsinki           ;Europe       ;EUR;150;Europe  ;154;Northern Europe                ;Independent           ;337030;5244000
+FRA;France                            ;Paris              ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;547030;64768389
+GUF;French Guiana                     ;Cayenne            ;South America;EUR;19;Americas;419;Latin America and the Caribbean;Part of FR            ;91000;195506
+PYF;French Polynesia                  ;Papeete            ;Oceania      ;XPF;9;Oceania ;61;Polynesia                      ;Territory of FR       ;4167;270485
+ATF;French Southern Territories       ;Port-aux-Francais  ;Antarctica   ;EUR;2;Africa  ;202;Sub-Saharan Africa             ;Territory of FR       ;7829;140
+GAB;Gabon                             ;Libreville         ;Africa       ;XAF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;267667;1545255
+GMB;Gambia                            ;Banjul             ;Africa       ;GMD;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;11300;1593256
+GEO;Georgia                           ;Tbilisi            ;Asia         ;GEL;142;Asia    ;145;Western Asia                   ;Independent           ;69700;4630000
+DEU;Germany                           ;Berlin             ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;357021;81802257
+GHA;Ghana                             ;Accra              ;Africa       ;GHS;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;239460;24339838
+GIB;Gibraltar                         ;Gibraltar          ;Europe       ;GIP;150;Europe  ;39;Southern Europe                ;Territory of GB       ;6.5;27884
+GRC;Greece                            ;Athens             ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;131940;11000000
+GRL;Greenland                         ;Nuuk               ;North America;DKK;19;Americas;21;Northern America               ;Part of DK            ;2166086;56375
+GRD;Grenada                           ;St. George's       ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Independent           ;344;107818
+GLP;Guadeloupe                        ;Basse-Terre        ;North America;EUR;19;Americas;419;Latin America and the Caribbean;Part of FR            ;1780;443000
+GUM;Guam                              ;Hagatna            ;Oceania      ;USD;9;Oceania ;57;Micronesia                     ;Territory of US       ;549;159358
+GTM;Guatemala                         ;Guatemala City     ;North America;GTQ;19;Americas;419;Latin America and the Caribbean;Independent           ;108890;13550440
+GGY;Guernsey                          ;St Peter Port      ;Europe       ;GBP;150;Europe  ;154;Northern Europe                ;Crown dependency of GB;78;65228
+GIN;Guinea                            ;Conakry            ;Africa       ;GNF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;245857;10324025
+GNB;Guinea-Bissau                     ;Bissau             ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;36120;1565126
+GUY;Guyana                            ;Georgetown         ;South America;GYD;19;Americas;419;Latin America and the Caribbean;Independent           ;214970;748486
+HTI;Haiti                             ;Port-au-Prince     ;North America;HTG;19;Americas;419;Latin America and the Caribbean;Independent           ;27750;9648924
+HMD;Heard Island and McDonald Islands ;;Antarctica   ;AUD;9;Oceania ;53;Australia and New Zealand      ;Territory of AU       ;412;0
+HND;Honduras                          ;Tegucigalpa        ;North America;HNL;19;Americas;419;Latin America and the Caribbean;Independent           ;112090;7989415
+HKG;Hong Kong                         ;Hong Kong          ;Asia         ;HKD;142;Asia    ;30;Eastern Asia                   ;Part of CN            ;1092;6898686
+HUN;Hungary                           ;Budapest           ;Europe       ;HUF;150;Europe  ;151;Eastern Europe                 ;Independent           ;93030;9982000
+ISL;Iceland                           ;Reykjavik          ;Europe       ;ISK;150;Europe  ;154;Northern Europe                ;Independent           ;103000;308910
+IND;India                             ;New Delhi          ;Asia         ;INR;142;Asia    ;34;Southern Asia                  ;Independent           ;3287590;1173108018
+IDN;Indonesia                         ;Jakarta            ;Asia         ;IDR;142;Asia    ;35;South-eastern Asia             ;Independent           ;1919440;242968342
+IRN;Iran                              ;Tehran             ;Asia         ;IRR;142;Asia    ;34;Southern Asia                  ;Independent           ;1648000;76923300
+IRQ;Iraq                              ;Baghdad            ;Asia         ;IQD;142;Asia    ;145;Western Asia                   ;Independent           ;437072;29671605
+IRL;Ireland                           ;Dublin             ;Europe       ;EUR;150;Europe  ;154;Northern Europe                ;Independent           ;70280;4622917
+IMN;Isle of Man                       ;Douglas            ;Europe       ;GBP;150;Europe  ;154;Northern Europe                ;Crown dependency of GB;572;75049
+ISR;Israel                            ;Jerusalem          ;Asia         ;ILS;142;Asia    ;145;Western Asia                   ;Independent           ;20770;7353985
+ITA;Italy                             ;Rome               ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;301230;60340328
+CIV;Ivory Coast                       ;Yamoussoukro       ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;322460;21058798
+JAM;Jamaica                           ;Kingston           ;North America;JMD;19;Americas;419;Latin America and the Caribbean;Independent           ;10991;2847232
+JPN;Japan                             ;Tokyo              ;Asia         ;JPY;142;Asia    ;30;Eastern Asia                   ;Independent           ;377835;127288000
+JEY;Jersey                            ;Saint Helier       ;Europe       ;GBP;150;Europe  ;154;Northern Europe                ;Crown dependency of GB;116;90812
+JOR;Jordan                            ;Amman              ;Asia         ;JOD;142;Asia    ;145;Western Asia                   ;Independent           ;92300;6407085
+KAZ;Kazakhstan                        ;Astana             ;Asia         ;KZT;142;Asia    ;143;Central Asia                   ;Independent           ;2717300;15340000
+KEN;Kenya                             ;Nairobi            ;Africa       ;KES;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;582650;40046566
+KIR;Kiribati                          ;Tarawa             ;Oceania      ;AUD;9;Oceania ;57;Micronesia                     ;Independent           ;811;92533
+XKX;Kosovo                            ;Pristina           ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;#N/A                  ;10908;1800000
+KWT;Kuwait                            ;Kuwait City        ;Asia         ;KWD;142;Asia    ;145;Western Asia                   ;Independent           ;17820;2789132
+KGZ;Kyrgyzstan                        ;Bishkek            ;Asia         ;KGS;142;Asia    ;143;Central Asia                   ;Independent           ;198500;5776500
+LAO;Laos                              ;Vientiane          ;Asia         ;LAK;142;Asia    ;35;South-eastern Asia             ;Independent           ;236800;6368162
+LVA;Latvia                            ;Riga               ;Europe       ;EUR;150;Europe  ;154;Northern Europe                ;Independent           ;64589;2217969
+LBN;Lebanon                           ;Beirut             ;Asia         ;LBP;142;Asia    ;145;Western Asia                   ;Independent           ;10400;4125247
+LSO;Lesotho                           ;Maseru             ;Africa       ;LSL;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;30355;1919552
+LBR;Liberia                           ;Monrovia           ;Africa       ;LRD;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;111370;3685076
+LBY;Libya                             ;Tripoli            ;Africa       ;LYD;2;Africa  ;15;Northern Africa                ;Independent           ;1759540;6461454
+LIE;Liechtenstein                     ;Vaduz              ;Europe       ;CHF;150;Europe  ;155;Western Europe                 ;Independent           ;160;35000
+LTU;Lithuania                         ;Vilnius            ;Europe       ;EUR;150;Europe  ;154;Northern Europe                ;Independent           ;65200;2944459
+LUX;Luxembourg                        ;Luxembourg         ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;2586;497538
+MAC;Macao                             ;Macao              ;Asia         ;MOP;142;Asia    ;30;Eastern Asia                   ;Part of CN            ;254;449198
+MKD;Macedonia                         ;Skopje             ;Europe       ;MKD;150;Europe  ;39;Southern Europe                ;Independent           ;25333;2062294
+MDG;Madagascar                        ;Antananarivo       ;Africa       ;MGA;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;587040;21281844
+MWI;Malawi                            ;Lilongwe           ;Africa       ;MWK;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;118480;15447500
+MYS;Malaysia                          ;Kuala Lumpur       ;Asia         ;MYR;142;Asia    ;35;South-eastern Asia             ;Independent           ;329750;28274729
+MDV;Maldives                          ;Male               ;Asia         ;MVR;142;Asia    ;34;Southern Asia                  ;Independent           ;300;395650
+MLI;Mali                              ;Bamako             ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1240000;13796354
+MLT;Malta                             ;Valletta           ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;316;403000
+MHL;Marshall Islands                  ;Majuro             ;Oceania      ;USD;9;Oceania ;57;Micronesia                     ;Independent           ;181.3;65859
+MTQ;Martinique                        ;Fort-de-France     ;North America;EUR;19;Americas;419;Latin America and the Caribbean;Part of FR            ;1100;432900
+MRT;Mauritania                        ;Nouakchott         ;Africa       ;MRO;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1030700;3205060
+MUS;Mauritius                         ;Port Louis         ;Africa       ;MUR;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;2040;1294104
+MYT;Mayotte                           ;Mamoudzou          ;Africa       ;EUR;2;Africa  ;202;Sub-Saharan Africa             ;Part of FR            ;374;159042
+MEX;Mexico                            ;Mexico City        ;North America;MXN;19;Americas;419;Latin America and the Caribbean;Independent           ;1972550;112468855
+FSM;Micronesia                        ;Palikir            ;Oceania      ;USD;9;Oceania ;57;Micronesia                     ;Independent           ;702;107708
+MDA;Moldova                           ;Chisinau           ;Europe       ;MDL;150;Europe  ;151;Eastern Europe                 ;Independent           ;33843;4324000
+MCO;Monaco                            ;Monaco             ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;1.9;32965
+MNG;Mongolia                          ;Ulan Bator         ;Asia         ;MNT;142;Asia    ;30;Eastern Asia                   ;Independent           ;1565000;3086918
+MNE;Montenegro                        ;Podgorica          ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;14026;666730
+MSR;Montserrat                        ;Plymouth           ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;102;9341
+MAR;Morocco                           ;Rabat              ;Africa       ;MAD;2;Africa  ;15;Northern Africa                ;Independent           ;446550;33848242
+MOZ;Mozambique                        ;Maputo             ;Africa       ;MZN;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;801590;22061451
+MMR;Myanmar                           ;Nay Pyi Taw        ;Asia         ;MMK;142;Asia    ;35;South-eastern Asia             ;Independent           ;678500;53414374
+NAM;Namibia                           ;Windhoek           ;Africa       ;NAD;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;825418;2128471
+NRU;Nauru                             ;Yaren              ;Oceania      ;AUD;9;Oceania ;57;Micronesia                     ;Independent           ;21;10065
+NPL;Nepal                             ;Kathmandu          ;Asia         ;NPR;142;Asia    ;34;Southern Asia                  ;Independent           ;140800;28951852
+NLD;Netherlands                       ;Amsterdam          ;Europe       ;EUR;150;Europe  ;155;Western Europe                 ;Independent           ;41526;16645000
+ANT;Netherlands Antilles              ;Willemstad         ;North America;ANG;;;;;;960;300000
+NCL;New Caledonia                     ;Noumea             ;Oceania      ;XPF;9;Oceania ;54;Melanesia                      ;Territory of FR       ;19060;216494
+NZL;New Zealand                       ;Wellington         ;Oceania      ;NZD;9;Oceania ;53;Australia and New Zealand      ;Independent           ;268680;4252277
+NIC;Nicaragua                         ;Managua            ;North America;NIO;19;Americas;419;Latin America and the Caribbean;Independent           ;129494;5995928
+NER;Niger                             ;Niamey             ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1267000;15878271
+NGA;Nigeria                           ;Abuja              ;Africa       ;NGN;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;923768;154000000
+NIU;Niue                              ;Alofi              ;Oceania      ;NZD;9;Oceania ;61;Polynesia                      ;Associated with NZ    ;260;2166
+NFK;Norfolk Island                    ;Kingston           ;Oceania      ;AUD;9;Oceania ;53;Australia and New Zealand      ;Territory of AU       ;34.6;1828
+PRK;North Korea                       ;Pyongyang          ;Asia         ;KPW;142;Asia    ;30;Eastern Asia                   ;Independent           ;120540;22912177
+MNP;Northern Mariana Islands          ;Saipan             ;Oceania      ;USD;9;Oceania ;57;Micronesia                     ;Commonwealth of US    ;477;53883
+NOR;Norway                            ;Oslo               ;Europe       ;NOK;150;Europe  ;154;Northern Europe                ;Independent           ;324220;5009150
+OMN;Oman                              ;Muscat             ;Asia         ;OMR;142;Asia    ;145;Western Asia                   ;Independent           ;212460;2967717
+PAK;Pakistan                          ;Islamabad          ;Asia         ;PKR;142;Asia    ;34;Southern Asia                  ;Independent           ;803940;184404791
+PLW;Palau                             ;Melekeok           ;Oceania      ;USD;9;Oceania ;57;Micronesia                     ;Independent           ;458;19907
+PSE;Palestinian Territory             ;East Jerusalem     ;Asia         ;ILS;142;Asia    ;145;Western Asia                   ;In contention         ;5970;3800000
+PAN;Panama                            ;Panama City        ;North America;PAB;19;Americas;419;Latin America and the Caribbean;Independent           ;78200;3410676
+PNG;Papua New Guinea                  ;Port Moresby       ;Oceania      ;PGK;9;Oceania ;54;Melanesia                      ;Independent           ;462840;6064515
+PRY;Paraguay                          ;Asuncion           ;South America;PYG;19;Americas;419;Latin America and the Caribbean;Independent           ;406750;6375830
+PER;Peru                              ;Lima               ;South America;PEN;19;Americas;419;Latin America and the Caribbean;Independent           ;1285220;29907003
+PHL;Philippines                       ;Manila             ;Asia         ;PHP;142;Asia    ;35;South-eastern Asia             ;Independent           ;300000;99900177
+PCN;Pitcairn                          ;Adamstown          ;Oceania      ;NZD;9;Oceania ;61;Polynesia                      ;Territory of GB       ;47;46
+POL;Poland                            ;Warsaw             ;Europe       ;PLN;150;Europe  ;151;Eastern Europe                 ;Independent           ;312685;38500000
+PRT;Portugal                          ;Lisbon             ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;92391;10676000
+PRI;Puerto Rico                       ;San Juan           ;North America;USD;19;Americas;419;Latin America and the Caribbean;Commonwealth of US    ;9104;3916632
+QAT;Qatar                             ;Doha               ;Asia         ;QAR;142;Asia    ;145;Western Asia                   ;Independent           ;11437;840926
+COG;Republic of the Congo             ;Brazzaville        ;Africa       ;XAF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;342000;3039126
+REU;Reunion                           ;Saint-Denis        ;Africa       ;EUR;2;Africa  ;202;Sub-Saharan Africa             ;Part of FR            ;2517;776948
+ROU;Romania                           ;Bucharest          ;Europe       ;RON;150;Europe  ;151;Eastern Europe                 ;Independent           ;237500;21959278
+RUS;Russia                            ;Moscow             ;Europe       ;RUB;150;Europe  ;151;Eastern Europe                 ;Independent           ;17100000;140702000
+RWA;Rwanda                            ;Kigali             ;Africa       ;RWF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;26338;11055976
+BLM;Saint Barthelemy                  ;Gustavia           ;North America;EUR;19;Americas;419;Latin America and the Caribbean;Part of FR            ;21;8450
+SHN;Saint Helena                      ;Jamestown          ;Africa       ;SHP;2;Africa  ;202;Sub-Saharan Africa             ;Territory of GB       ;410;7460
+KNA;Saint Kitts and Nevis             ;Basseterre         ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Independent           ;261;51134
+LCA;Saint Lucia                       ;Castries           ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Independent           ;616;160922
+MAF;Saint Martin                      ;Marigot            ;North America;EUR;19;Americas;419;Latin America and the Caribbean;Part of FR            ;53;35925
+SPM;Saint Pierre and Miquelon         ;Saint-Pierre       ;North America;EUR;19;Americas;21;Northern America               ;Part of FR            ;242;7012
+VCT;Saint Vincent and the Grenadines  ;Kingstown          ;North America;XCD;19;Americas;419;Latin America and the Caribbean;Independent           ;389;104217
+WSM;Samoa                             ;Apia               ;Oceania      ;WST;9;Oceania ;61;Polynesia                      ;Independent           ;2944;192001
+SMR;San Marino                        ;San Marino         ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;61.2;31477
+STP;Sao Tome and Principe             ;Sao Tome           ;Africa       ;STD;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1001;175808
+SAU;Saudi Arabia                      ;Riyadh             ;Asia         ;SAR;142;Asia    ;145;Western Asia                   ;Independent           ;1960582;25731776
+SEN;Senegal                           ;Dakar              ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;196190;12323252
+SRB;Serbia                            ;Belgrade           ;Europe       ;RSD;150;Europe  ;39;Southern Europe                ;Independent           ;88361;7344847
+SCG;Serbia and Montenegro             ;Belgrade           ;Europe       ;RSD;;;;;;102350;10829175
+SYC;Seychelles                        ;Victoria           ;Africa       ;SCR;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;455;88340
+SLE;Sierra Leone                      ;Freetown           ;Africa       ;SLL;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;71740;5245695
+SGP;Singapore                         ;Singapore          ;Asia         ;SGD;142;Asia    ;35;South-eastern Asia             ;Independent           ;692.7;4701069
+SXM;Sint Maarten                      ;Philipsburg        ;North America;ANG;19;Americas;419;Latin America and the Caribbean;Part of NL            ;21;37429
+SVK;Slovakia                          ;Bratislava         ;Europe       ;EUR;150;Europe  ;151;Eastern Europe                 ;Independent           ;48845;5455000
+SVN;Slovenia                          ;Ljubljana          ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;20273;2007000
+SLB;Solomon Islands                   ;Honiara            ;Oceania      ;SBD;9;Oceania ;54;Melanesia                      ;Independent           ;28450;559198
+SOM;Somalia                           ;Mogadishu          ;Africa       ;SOS;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;637657;10112453
+ZAF;South Africa                      ;Pretoria           ;Africa       ;ZAR;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;1219912;49000000
+SGS;South Georgia and the South Sandwi;Grytviken          ;Antarctica   ;GBP;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;3903;30
+KOR;South Korea                       ;Seoul              ;Asia         ;KRW;142;Asia    ;30;Eastern Asia                   ;Independent           ;98480;48422644
+SSD;South Sudan                       ;Juba               ;Africa       ;SSP;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;644329;8260490
+ESP;Spain                             ;Madrid             ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;504782;46505963
+LKA;Sri Lanka                         ;Colombo            ;Asia         ;LKR;142;Asia    ;34;Southern Asia                  ;Independent           ;65610;21513990
+SDN;Sudan                             ;Khartoum           ;Africa       ;SDG;2;Africa  ;15;Northern Africa                ;Independent           ;1861484;35000000
+SUR;Suriname                          ;Paramaribo         ;South America;SRD;19;Americas;419;Latin America and the Caribbean;Independent           ;163270;492829
+SJM;Svalbard and Jan Mayen            ;Longyearbyen       ;Europe       ;NOK;150;Europe  ;154;Northern Europe                ;Territory of NO       ;62049;2550
+SWZ;Swaziland                         ;Mbabane            ;Africa       ;SZL;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;17363;1354051
+SWE;Sweden                            ;Stockholm          ;Europe       ;SEK;150;Europe  ;154;Northern Europe                ;Independent           ;449964;9828655
+CHE;Switzerland                       ;Bern               ;Europe       ;CHF;150;Europe  ;155;Western Europe                 ;Independent           ;41290;7581000
+SYR;Syria                             ;Damascus           ;Asia         ;SYP;142;Asia    ;145;Western Asia                   ;Independent           ;185180;22198110
+TWN;Taiwan                            ;Taipei             ;Asia         ;TWD;142;Asia    ;30;Eastern Asia                   ;Independent           ;35980;22894384
+TJK;Tajikistan                        ;Dushanbe           ;Asia         ;TJS;142;Asia    ;143;Central Asia                   ;Independent           ;143100;7487489
+TZA;Tanzania                          ;Dodoma             ;Africa       ;TZS;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;945087;41892895
+THA;Thailand                          ;Bangkok            ;Asia         ;THB;142;Asia    ;35;South-eastern Asia             ;Independent           ;514000;67089500
+TLS;Timor Leste                       ;Dili               ;Oceania      ;USD;142;Asia    ;35;South-eastern Asia             ;Independent           ;15007;1154625
+TGO;Togo                              ;Lome               ;Africa       ;XOF;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;56785;6587239
+TKL;Tokelau                           ;;Oceania      ;NZD;9;Oceania ;61;Polynesia                      ;Territory of NZ       ;10;1466
+TON;Tonga                             ;Nuku'alofa         ;Oceania      ;TOP;9;Oceania ;61;Polynesia                      ;Independent           ;748;122580
+TTO;Trinidad and Tobago               ;Port of Spain      ;North America;TTD;19;Americas;419;Latin America and the Caribbean;Independent           ;5128;1328019
+TUN;Tunisia                           ;Tunis              ;Africa       ;TND;2;Africa  ;15;Northern Africa                ;Independent           ;163610;10589025
+TUR;Turkey                            ;Ankara             ;Asia         ;TRY;142;Asia    ;145;Western Asia                   ;Independent           ;780580;77804122
+TKM;Turkmenistan                      ;Ashgabat           ;Asia         ;TMT;142;Asia    ;143;Central Asia                   ;Independent           ;488100;4940916
+TCA;Turks and Caicos Islands          ;Cockburn Town      ;North America;USD;19;Americas;419;Latin America and the Caribbean;Territory of GB       ;430;20556
+TUV;Tuvalu                            ;Funafuti           ;Oceania      ;AUD;9;Oceania ;61;Polynesia                      ;Independent           ;26;10472
+VIR;U.S. Virgin Islands               ;Charlotte Amalie   ;North America;USD;19;Americas;419;Latin America and the Caribbean;Territory of US       ;352;108708
+UGA;Uganda                            ;Kampala            ;Africa       ;UGX;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;236040;33398682
+UKR;Ukraine                           ;Kyiv               ;Europe       ;UAH;150;Europe  ;151;Eastern Europe                 ;Independent           ;603700;45415596
+ARE;United Arab Emirates              ;Abu Dhabi          ;Asia         ;AED;142;Asia    ;145;Western Asia                   ;Independent           ;82880;4975593
+GBR;United Kingdom                    ;London             ;Europe       ;GBP;150;Europe  ;154;Northern Europe                ;Independent           ;244820;62348447
+USA;United States                     ;Washington         ;North America;USD;19;Americas;21;Northern America               ;Independent           ;9629091;310232863
+UMI;United States Minor Outlying Islan;;Oceania      ;USD;9;Oceania ;57;Micronesia                     ;Territories of US     ;0;0
+URY;Uruguay                           ;Montevideo         ;South America;UYU;19;Americas;419;Latin America and the Caribbean;Independent           ;176220;3477000
+UZB;Uzbekistan                        ;Tashkent           ;Asia         ;UZS;142;Asia    ;143;Central Asia                   ;Independent           ;447400;27865738
+VUT;Vanuatu                           ;Port Vila          ;Oceania      ;VUV;9;Oceania ;54;Melanesia                      ;Independent           ;12200;221552
+VAT;Vatican                           ;Vatican City       ;Europe       ;EUR;150;Europe  ;39;Southern Europe                ;Independent           ;0.4;921
+VEN;Venezuela                         ;Caracas            ;South America;VES;19;Americas;419;Latin America and the Caribbean;Independent           ;912050;27223228
+VNM;Vietnam                           ;Hanoi              ;Asia         ;VND;142;Asia    ;35;South-eastern Asia             ;Independent           ;329560;89571130
+WLF;Wallis and Futuna                 ;Mata Utu           ;Oceania      ;XPF;9;Oceania ;61;Polynesia                      ;Territory of FR       ;274;16025
+ESH;Western Sahara                    ;El-Aaiun           ;Africa       ;MAD;2;Africa  ;15;Northern Africa                ;In contention         ;266000;273008
+YEM;Yemen                             ;Sanaa              ;Asia         ;YER;142;Asia    ;145;Western Asia                   ;Independent           ;527970;23495361
+ZMB;Zambia                            ;Lusaka             ;Africa       ;ZMW;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;752614;13460305
+ZWE;Zimbabwe                          ;Harare             ;Africa       ;ZWL;2;Africa  ;202;Sub-Saharan Africa             ;Independent           ;390580;13061000
