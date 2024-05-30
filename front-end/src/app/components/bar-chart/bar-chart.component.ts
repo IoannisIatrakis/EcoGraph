@@ -114,7 +114,7 @@ export class BarChartComponent implements OnInit,OnChanges {
   showXAxisLabel = true;
   xAxisLabel = 'Year';
   showYAxisLabel = true;
-  yAxisLabel = 'Population';
+  yAxisLabel = 'Value';
   constructor(private apiService: ApiService) {
     
   }

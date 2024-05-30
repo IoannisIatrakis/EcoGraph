@@ -50,14 +50,15 @@
 
     </div>
 </div>
-
-<button class="button" (click)="selectChart('bar')">Bar Chart</button>
+<div class="d-flex justify-content-center align-items-center  my-4">
+<button class="button mx-2 " (click)="selectChart('bar')">Bar Chart</button>
 <button class="button" (click)="selectChart('line')">Line Chart</button>
 <!-- <button class="button" (click)="selectChart('scatter')">Scatter Chart</button> -->
+</div>
 
 
-
-
-<app-bar-chart *ngIf="selectedChart=='bar'" [fields]="tablesFields" [countries]="Countries" [interval]="this.selectedYear"  [startYear]="startValue" [endYear]="endValue"></app-bar-chart>
+<div class="d-flex justify-content-center align-items-center  my-4">
+<app-bar-chart class="" *ngIf="selectedChart=='bar'" [fields]="tablesFields" [countries]="Countries" [interval]="this.selectedYear"  [startYear]="startValue" [endYear]="endValue"></app-bar-chart>
 
 <app-line-chart *ngIf="selectedChart=='line'" [fields]="tablesFields" [countries]="Countries" [interval]="this.selectedYear"  [startYear]="startValue" [endYear]="endValue"></app-line-chart>
+</div>
