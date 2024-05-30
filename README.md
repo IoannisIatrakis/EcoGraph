@@ -10,4 +10,4 @@ In the back-end directory, run npm i && npm start in order to start the expressJ
 Also, in /back-end/db.js you should change the fields with your settings.  
 
 
-In the front-end directoru, run npm i && ng serve in order to start the angularApp. 
+In the front-end directory, run npm i && ng serve in order to start the angularApp. 
