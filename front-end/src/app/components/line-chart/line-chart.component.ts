@@ -19,7 +19,7 @@ export class LineChartComponent implements OnInit,OnChanges {
   showXAxisLabel = true;
   xAxisLabel = 'Year';
   showYAxisLabel = true;
-  yAxisLabel = 'Population';
+  yAxisLabel = 'Value';
   
 
   @Input() countries: string[] = [];
