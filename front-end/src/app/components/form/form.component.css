@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #36d1dc, #5b86e5);
+    background: linear-gradient(135deg, #11998e, #38ef7d);
 }
 
 /* Container Styling */
@@ -59,7 +59,7 @@ p {
     padding: 0.5em 1.5em;
     font-size: 1.1em;
     color: #fff;
-    background-color: #36d1dc;
+    background-color: #228B22;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -67,7 +67,7 @@ p {
 }
 
 .button:hover {
-    background-color: #5b86e5;
+    background-color: #228B22;
     transform: translateY(-2px);
 }
 

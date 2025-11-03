@@ -12,14 +12,18 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #36d1dc, #5b86e5);
+    background-image: url('/assets/Home.jpg');
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    
 }
 
 /* Container Styling */
 .container {
     display: flex;
     align-items: center;
-    background: rgba(255, 255, 255, 0.9);
+    background: linear-gradient(135deg, rgba(54, 209, 220, 0.6), rgba(91, 134, 229, 0.6));
     padding: 2em;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -59,7 +63,7 @@ p {
     padding: 0.5em 1.5em;
     font-size: 1.1em;
     color: #fff;
-    background-color: #36d1dc;
+    background-color: #228B22;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -67,7 +71,7 @@ p {
 }
 
 .button:hover {
-    background-color: #5b86e5;
+    background-color: #00FF00;
     transform: translateY(-2px);
 }
 
