@@ -2,14 +2,17 @@
 
 **EcoGraph** is an interactive data visualization tool that showcases environmental and nature-related statistics from countries around the world. With EcoGraph, users can explore key indicators such as carbon emissions, renewable energy usage, biodiversity levels, and more—all through clean, dynamic, and insightful visualizations. Designed to promote awareness and data-driven action, EcoGraph turns global environmental data into meaningful insights.
 
+<img width="1917" height="911" alt="EcoHome" src="https://github.com/user-attachments/assets/778775df-40d9-4531-9503-ccc2d7e08f62" />
 
 
 ### Features:
 
 - Bar charts for easy comparison of environmental metrics.
+<img width="1897" height="853" alt="barchart" src="https://github.com/user-attachments/assets/839eefac-027e-4e6f-beaa-3e45a86f300a" />
 
 
 - Line charts to track trends over time.
+<img width="1909" height="778" alt="Line" src="https://github.com/user-attachments/assets/32315691-a601-4453-bdb1-90f7edc0d916" />
 
 
 
