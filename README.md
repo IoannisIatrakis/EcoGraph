@@ -36,7 +36,7 @@ environmental data into meaningful insights.
 
 ### **Configure ExpressJS and Angular app**
 
-1.  Open the command line prompt in back-end directory and **run npm i
+1.  Open the command line prompt in back-end directory and run **npm i
     && npm start**
 
 2.  Open the command line prompt in front-end directory and run **npm i
